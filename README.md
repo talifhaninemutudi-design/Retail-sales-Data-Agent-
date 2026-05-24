@@ -1,10 +1,13 @@
 # Retail-sales-Data-Agent-
 Retail sales Data Agent Assignment 
+
 #Introduction
 This project is about building a functional data agent that can analyse data, generate insights, and respond to user queries effectively. The assignment also involves uploading a data set on Sequel, Understanding the dataset and preparing the data for testing the agent’s ability to interpret and answer questions accurately, and evaluate the quality of the outputs produced.
 Using SQL queries, various data analysis techniques such as aggregation, filtering, grouping, and statistical calculations. In addition, the assignment explores the strengths and limitations of the data agent by identifying loopholes, incorrect responses, unnecessary outputs, and areas where the agent may misinterpret user requests.
+
 #Objective
 My overall aim in doing this assignment is to familiarise myself with how data bricks works ,how to prepare data for sequel and to understand how AI-driven data agents operate in practical environments, evaluate their reliability in supporting data-driven decision-making, and identify opportunities for improving the accuracy, relevance, and efficiency of automated data analysis systems.
+
 #Dataset description
 •	The retail sales dataset is a set of data detailing Sales of a retail company 
 •	The data is from 01/01/2023 till 01/01/2024
@@ -23,6 +26,7 @@ My overall aim in doing this assignment is to familiarise myself with how data b
 •	The data is complete and has no missing values 
 •	The retail dataset shows that their oldest customer is 65 in the year 2023 Jan to 2024 Jan 
 •	With their youngest customer in that same financial year end being 18
+
 #AGENT INSTRUCTIONS
 Question 5
 Retail sales insights agent role
